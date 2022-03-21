@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Image Gallery</title>
+</head>
+
+<style>
+.h1{
+color:blue;
+}
+
+.h3,h4{
+color:orange;
+}
+
+</style>
+
+<body>
+<img src="pic_trulli.jpg" alt="HTML5 Icon" width="564" height="564">
+<div><h1 class="h1">Pic Trulli</h1></div>
+
+<img src="C:\Users\ma.pandey1\Desktop\HTML-Assignment-1\sub-folder\img_pink_flowers.jpg" alt="HTML5 Icon" width="564" height="564">
+<span><h2 class="h2">Pink Flowers</h2></span>
+
+<img src="https://th.bing.com/th/id/R.6afc61b50aabe45a2e6c68eae2c217ba?rik=L2W0YWncfjZBVA&riu=http%3a%2f%2fwww.shutterstock.com%2fblog%2fwp-content%2fuploads%2fsites%2f5%2f2016%2f03%2ffall-trees-road-1.jpg&ehk=KA%2bzFrmYoWsdK4k7v%2fgfNkd1T2rdnNtpF5ICdLIxAeM%3d&risl=&pid=ImgRaw&r=0" 
+alt="W3Schools.com" width="564" height="564">
+<div><h3 class="h3">Forest</h3></div>
+
+<img src="000090033.jpg" alt="HTML5 Icon" width="564" height="564">
+<ul><li><h4 class="h4">Rocks Image</h4></li></ul>
+
+
+<img src="C:\Users\ma.pandey1\Desktop\HTML-Assignment-1\sub-folder\images-2.jpg" alt="HTML5 Icon" width="564" height="564">
+<ol><li><h5 class="h5">Sunflower Image</h5></li></ol>
+
+<a href="https://www.geminisolutions.com/"><img src="GeminiLogo-Small-Black.png" 
+alt="W3Schools.com" width="364" height="364"></a>
+<div><h6 class="h6">Company Logo</h6></div>
+
+</body>
+</html>
